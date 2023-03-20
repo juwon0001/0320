@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+      <!--순서 없는 목록-->>
+    <ul TYPE="square">
+        <li>사과<li>D:\0320\0320
+        <li>포도<li>
+        <li>키위<li>
+        </uL> 
+        <br>
+        <!--순서 없는 목록-->>
+        <ol type="disc"><!--disc,circle,square-->>
+            <li>사과<li>
+            <li>포도<li>
+            <li>키위<li>
+        </ul>
+        <br>
+
+        <!--중첩된 목록-->>
+        <ol>
+                <B><채소></B>
+                <OL>
+                    <li>시금치</li>
+                    <li>파프리카</li>
+                    <li>당근</li>
+                    </OL>>
+       </li>>             
+<body>
+   
+</body>
+</html>
